@@ -10,4 +10,6 @@ lunamultiplayer.com:8700
 37.187.108.37:8700
 #Zarlo's server
 ms.lmp.pksky.xyz:8700
+#madcow's server
+madcowserver.ddns.net:8700
 
